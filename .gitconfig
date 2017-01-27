@@ -1,0 +1,8 @@
+[http]
+	sslVerify = false
+[https]
+	proxy = https://proxy-nord.sdc.dk:80
+[url "https://"]
+	insteadOf = git://
+[core]
+	ignorecase = false

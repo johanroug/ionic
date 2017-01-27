@@ -1,0 +1,1 @@
+git clone https://github.com/driftyco/ionic-app-base.git newapp
